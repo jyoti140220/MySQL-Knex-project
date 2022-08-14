@@ -4,7 +4,8 @@ const knex=require('knex')({
         host:'localhost',
         user:'root',
         password:"Jyotijaya20@",
-        database:"Hello"
+        database:"Hello",
+
     }
 })
 
