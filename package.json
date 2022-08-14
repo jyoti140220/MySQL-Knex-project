@@ -1,0 +1,26 @@
+{
+  "name": "mysql-knex-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyoti140220/MySQL-Knex-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyoti140220/MySQL-Knex-project/issues"
+  },
+  "homepage": "https://github.com/jyoti140220/MySQL-Knex-project#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "knex": "^2.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
